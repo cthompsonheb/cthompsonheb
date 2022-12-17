@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, I'm Connor 👋
+
+About Me
+- 
+
+- I'm a Software Engineer at Capital One
+- Programming interests: full-stack development, ReactJS, Python 🐍, Machine Learning
+- Current Goals: learn SwiftUI, develop an IOS app & release it on the App Store
+- Hobbies: videogames 🎮, snowboarding 🏂, craft beer 🍺
 
 <!--
 **cthompsonheb/cthompsonheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
