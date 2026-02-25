@@ -4,7 +4,7 @@ About Me
 - 
 
 - I'm a Software Engineer at Capital One
-- Programming interests: full-stack development, ReactJS, Python 🐍, Machine Learning
+- Programming interests: AWS, full-stack development, ReactJS, Python 🐍, Machine Learning
 - Current Goals: learn SwiftUI, develop an IOS app & release it on the App Store
 - Hobbies: videogames 🎮, snowboarding 🏂, craft beer 🍺
 
